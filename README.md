@@ -1,4 +1,4 @@
-# Welcome to MS Teams Clone!
+# peptalk messaging app!
 
 ### [Checkout the Website](peptalk.netlify.app)
 
