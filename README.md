@@ -12,7 +12,7 @@ React JS is the programming language of choice, and Chat Engine is a set of APIs
 
 ### Login Credintials
 
-username: admin
+username: admin <br/>
 password: admin
 
 [N.B] If you want to go back to the login page, go to inspect > storage > local storage > delete all
