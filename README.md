@@ -1,6 +1,6 @@
 # peptalk messaging app!
 
-### [Checkout the Website](peptalk.netlify.app)
+### [Checkout the Website](https://peptalk.netlify.app/)
 
 ![Teams Build with Chat Engine](https://github.com/amfaymos/peptalk/blob/main/src/peptalk.png)
 
